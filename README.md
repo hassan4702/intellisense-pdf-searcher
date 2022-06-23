@@ -15,3 +15,5 @@ it also has a feature to contact the admin to for eg add new books.
 navigate to CONTACT US tab on the navigation bar.
 in the CONTACT US page you wiill enter your credentials  which can be seen by the adin through the admin panel.
 
+TO RUN OPEN IN YOUR PREFERRED IDE AND OPEN TERMINAL TYPE THE FOLLOWING COMMAND
+django-admin.py startproject nameOfProject
